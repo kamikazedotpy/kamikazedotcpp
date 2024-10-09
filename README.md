@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kamikazedotpy
+- 👋 Hi, I’m @kamikazedotcpp
 - 🌱 I’m currently learning C++
 - 📫 reach me at instagram @kamikazemusicc 
 - 😄 Pronouns: he/him
